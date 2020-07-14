@@ -1,0 +1,21 @@
+[12-Aug-2017 03:59:01 UTC] PHP Fatal error:  Call to a member function count() on null in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 74
+[14-Aug-2017 04:31:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/moofradat/public_html/api/routes/web.php on line 25
+[14-Aug-2017 04:53:11 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 07:28:29 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 07:28:30 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 09:57:51 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 09:58:48 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 09:59:27 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:00:04 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:00:23 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:00:24 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:17:18 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:17:27 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:17:46 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:32:38 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:32:56 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:35:11 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:37:56 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[14-Aug-2017 10:38:05 UTC] PHP Parse error:  syntax error, unexpected 'e' (T_STRING), expecting variable (T_VARIABLE) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 124
+[15-Aug-2017 18:03:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 27
+[15-Aug-2017 18:04:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/moofradat/public_html/api/app/Http/Controllers/ApiController.php on line 27
